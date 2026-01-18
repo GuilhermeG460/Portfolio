@@ -1,6 +1,5 @@
-function abrirProjeto(https://autocars.wuaze.com/?i=1) {
-  window.open(https://autocars.wuaze.com/?i=1, "_blank");
-}
-
-  
-
+document.querySelectorAll(".btn-projeto").forEach(btn => {
+  btn.addEventListener("click", () => {
+    window.open(btn.dataset.url, "_blank");
+  });
+});
