@@ -1,4 +1,5 @@
-function verProjeto(nomeProjeto) {
-    alert("Você clicou em: " + nomeProjeto);
-  }
+function abrirProjeto(url) {
+  window.open(url, "_blank");
+}
+
   
