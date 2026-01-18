@@ -64,7 +64,10 @@
   }
 
     .contato {
-        margin-right: 30px;
+    text-align: center;
+    padding: 30px;
+    background: #161b22;
     }
 
   
+
