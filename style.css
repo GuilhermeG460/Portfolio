@@ -38,10 +38,14 @@
   }
   
   .card {
-    background: #161b22;
-    padding: 20px;
-    border-radius: 10px;
-  }
+  background: #161b22;
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
   
   .card button {
     margin-top: 10px;
@@ -56,6 +60,14 @@
   .card button:hover {
     background: #2ea043;
   }
+
+.projeto {
+  margin-bottom: 30px;
+}
+
+.projeto:last-child {
+  margin-bottom: 0;
+}
   
   footer {
     text-align: center;
@@ -70,4 +82,5 @@
     }
 
   
+
 
