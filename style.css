@@ -41,10 +41,9 @@
   background: #161b22;
   padding: 20px;
   border-radius: 10px;
-  display: flex;
-  flex-direction: column;
-  gap: 30px;
+  margin-bottom: 30px; /* 👈 AQUI está o espaço */
 }
+
 
   
   .card button {
@@ -82,5 +81,6 @@
     }
 
   
+
 
 
