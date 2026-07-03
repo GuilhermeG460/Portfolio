@@ -4,7 +4,7 @@
 
 ## 📜 Certificados
 
-- [Ver certificados](./certificados/)
+- [Ver certificados](./certificados/README.md/)
 
 # 👋 Guilherme Garcia
 
@@ -20,7 +20,7 @@ Em breve serão adicionados projetos desenvolvidos durante meus estudos.
 
 ## 📜 Certificados
 
-- [Técnico em Tecnologia da Informação](./certificados/)
+- [Técnico em Tecnologia da Informação](./certificados/README.md/)
 
 ## 🛠️ Tecnologias em estudo
 
