@@ -10,5 +10,5 @@ Nesta pasta estão os certificados e diplomas que comprovam minha formação e q
 
 ### Documentos
 
-- 📄 [Diploma](./certificados/Diploma-Tecnico-TI.pdf)
-- 📑 [Histórico Escolar](./certificados/Historico-Tecnico-TI.pdf)
+- 📄 [Diploma](./Diploma-Tecnico-TI.pdf)
+- 📑 [Histórico Escolar](./Historico-Tecnico-TI.pdf)
